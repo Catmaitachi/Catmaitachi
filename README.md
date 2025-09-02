@@ -1,9 +1,6 @@
 <div> <img align="center" alt="Header" src="img/banner.png"> </div>
 
-<br>
-
-### ![Bem-vindo ao meu GitHub!](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFF&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;>+Meu+nome+é+Lucas+Spiazzi;>+Sou+Engenheiro+de+Software;>+Aqui+está+um+pouco+sobre+mim;>+Obrigado+pela+visita!!)
-
+### ![Bem-vindo ao meu GitHub!](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFF&background=00000000&center=true&vCenter=true&width=760&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;>+Meu+nome+é+Lucas+Spiazzi;>+Sou+Engenheiro+de+Software;>+Aqui+está+um+pouco+sobre+mim;>+Obrigado+pela+visita!!)
 
 ---
 
@@ -49,8 +46,8 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 <h2 align="center"><p>Minhas estatísticas 📈</p></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=true" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catmaitachi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catmaitachi&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" height="135" alt="languages graph"  />
 </p>
 
 ---
