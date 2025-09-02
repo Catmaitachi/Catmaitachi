@@ -2,20 +2,17 @@
 
 ---
 
-## Um pouco da minha história ✨
+<h2 align="center"><p>Um pouco da minha história ✨</p></h2>
 
-| ![PS2 Animação](img/ps2.gif){ width=200 } | Desde pequeno, meu interesse por tecnologia surgiu junto com os vídeo-games. Sempre fui curioso, explorando configurações, aprendendo a mexer em sistemas e resolvendo problemas por conta própria. Gostava de descobrir como as coisas funcionavam, desvendando mistérios e buscando soluções, acho que essa foi a base pra tudo, além de me tornar bem aculturado. |
-|:---:|:---|
+_Desde pequeno, meu interesse por tecnologia surgiu junto com os **vídeo-games**. Sempre fui curioso, explorando configurações, aprendendo a mexer em sistemas e resolvendo problemas por conta própria. Gostava de descobrir como as coisas funcionavam, desvendando mistérios e buscando soluções. Acho que essa foi a base para tudo, além de me tornar bem aculturado._
 
-| Durante o ensino médio, tive a chance de fazer um curso técnico em informática no Senac, em Contagem/MG. Lá, mergulhei em temas como hardware, software, sistemas operacionais, redes, design, desenvolvimento e programação. Essa experiência foi decisiva: ao participar de projetos e escrever minhas primeiras linhas de código, percebi que era exatamente isso que eu queria seguir. A certeza de estar no caminho certo ficou clara desde então. | ![Senac Logo](img/senac.png){ width=180 } |
-|:---|:---:|
+_Durante o ensino médio, tive a chance de fazer um curso **Técnico em Informática** no **Senac**, em Contagem/MG. Lá, mergulhei em temas como **hardware**, **software**, **sistemas operacionais**, **redes**, **design**, **desenvolvimento** e **programação**. Essa experiência foi decisiva: ao participar de projetos e escrever minhas primeiras linhas de código, percebi que era exatamente isso que eu queria seguir. A certeza de estar no caminho certo ficou clara desde então._
 
-| ![PUC MG Logo](img/puc.png){ width=140 } | Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi que Engenharia de Software era o curso que mais combinava com meus interesses: análise, planejamento, modelagem e desenvolvimento de projetos de software. Escolhi a PUC Minas para dar esse passo importante, e sigo em formação, aprendendo e evoluindo a cada semestre, tentando viver um pouco também. Tem sido uma jornada maravilhosa e cheia de novas visões, oportunidades e parcerias. |
-|:---:|:---|
+_Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi que **Engenharia de Software** era o curso que mais combinava com meus interesses: **análise**, **planejamento**, **modelagem** e **desenvolvimento de projetos de software**. Escolhi a **PUC Minas** para dar esse passo importante, e sigo em formação, aprendendo e evoluindo a cada semestre, tentando viver um pouco também. Tem sido uma jornada maravilhosa e cheia de novas visões, oportunidades e parcerias._
 
 ---
 
-## Já passou pelas minhas mãos 💻
+<h2 align="center"><p>Já passou pelas minhas mãos 💻</p></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-9AE6B4.svg?style=for-the-badge&logo=Android&logoColor=3DDC84" height="25" alt="android"/>
@@ -44,7 +41,7 @@
 
 ---
 
-## Minhas estatísticas 📈
+<h2 align="center"><p>Minhas estatísticas 📈</p></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=true" height="125" alt="stats graph"  />
@@ -53,9 +50,10 @@
 
 ---
 
-## Me dá um follow 🥺
+<h2 align="center"><p>Me dá um follow 🥺</p></h2>
 
-<p a>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/lucasspiazzi/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-E0F2FE.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077B5" height="32" alt="LinkedIn" />
   </a>
