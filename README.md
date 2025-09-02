@@ -14,24 +14,36 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 
 ---
 
-<h2 align="center"><p>Já passou pelas minhas mãos 💻</p></h2>
 
+<h3 align="center">🖥️ Sistemas Operacionais</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-0D1117.svg?style=for-the-badge&logo=Android&logoColor=3DDC84" height="25" alt="android"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-0D1117.svg?style=for-the-badge&logo=Arch-Linux&logoColor=1793D1" height="25" alt="arch linux"/>
   <img src="https://img.shields.io/badge/Windows-0D1117.svg?style=for-the-badge&logo=Windows&logoColor=0078D6" height="25" alt="windows"/>
-  <img src="https://img.shields.io/badge/Gemini-0D1117.svg?style=for-the-badge&logo=Google-Gemini&logoColor=4285F4" height="25" alt="gemini"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-0D1117.svg?style=for-the-badge&logo=Google-Sheets&logoColor=34A853" height="25" alt="google sheets"/>
+</p>
+
+<h3 align="center">🛠️ Ferramentas</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0D1117.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC" height="25" alt="vs code"/>
   <img src="https://img.shields.io/badge/Git-0D1117.svg?style=for-the-badge&logo=Git&logoColor=F05032" height="25" alt="git"/>
   <img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=for-the-badge&logo=GitHub&logoColor=181717" height="25" alt="github"/>
   <img src="https://img.shields.io/badge/Markdown-0D1117.svg?style=for-the-badge&logo=Markdown&logoColor=007ACC" height="25" alt="markdown"/>
   <img src="https://img.shields.io/badge/Figma-0D1117.svg?style=for-the-badge&logo=Figma&logoColor=a259ff" height="25" alt="figma"/>
+  <img src="https://img.shields.io/badge/Sheets-0D1117.svg?style=for-the-badge&logo=Google-Sheets&logoColor=34A853" height="25" alt="google sheets"/>
+  <img src="https://img.shields.io/badge/Gemini-0D1117.svg?style=for-the-badge&logo=Google-Gemini&logoColor=4285F4" height="25" alt="gemini"/>
+</p>
+
+<h3 align="center">🌐 Front-end</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=007ACC" height="25" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=1572b6" height="25" alt="css"/>
   <img src="https://img.shields.io/badge/Bootstrap-0D1117.svg?style=for-the-badge&logo=Bootstrap&logoColor=8512fb" height="25" alt="bootstrap"/>
   <img src="https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=007ACC" height="25" alt="javascript"/>
   <img src="https://img.shields.io/badge/React-0D1117.svg?style=for-the-badge&logo=React&logoColor=61DAFB" height="25" alt="react"/>
+</p>
+
+<h3 align="center">⚙️ Back-end & Linguagens</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-0D1117.svg?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" height="25" alt="nodejs"/>
   <img src="https://img.shields.io/badge/C-0D1117.svg?style=for-the-badge&logo=C&logoColor=007ACC" height="25" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-0D1117.svg?style=for-the-badge&logo=C-sharp&logoColor=239120" height="25" alt="C#"/>
@@ -39,6 +51,7 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
   <img src="https://img.shields.io/badge/Spring%20Boot-0D1117.svg?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F" height="25" alt="spring boot"/>
   <img src="https://img.shields.io/badge/PHP-0D1117.svg?style=for-the-badge&logo=PHP&logoColor=007ACC" height="25" alt="php"/>
   <img src="https://img.shields.io/badge/Python-0D1117.svg?style=for-the-badge&logo=Python&logoColor=3776AB" height="25" alt="python"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117.svg?style=for-the-badge&logo=MySQL&logoColor=4479A1" height="25" alt="sql"/>
 </p>
 
 ---
