@@ -70,7 +70,7 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 
 ---
 
-<h2 align="center" style="color:#1A237E"><p>Me dá um follow 🥺</p></h2>
+<h3 align="center" style="color:#1A237E"><p>Me dá um follow 🥺</p></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasspiazzi/" target="_blank" rel="noopener noreferrer">
