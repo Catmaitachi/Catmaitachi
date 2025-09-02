@@ -1,6 +1,6 @@
 <div> <img align="center" alt="Header" src="img/banner.png"> </div>
 
-### ![Bem-vindo ao meu GitHub!](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFF&background=00000000&center=true&vCenter=true&width=800&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;>+Meu+nome+é+Lucas+Spiazzi;>+Sou+Engenheiro+de+Software;>+Aqui+está+um+pouco+sobre+mim;>+Obrigado+pela+visita!!)
+### ![Bem-vindo ao meu GitHub!](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFF&background=00000000&center=true&vCenter=true&width=1000&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;>+Meu+nome+é+Lucas+Spiazzi;>+Sou+Engenheiro+de+Software;>+Aqui+está+um+pouco+sobre+mim;>+Obrigado+pela+visita!!)
 
 ---
 
