@@ -1,8 +1,7 @@
 ### ![Bem-vindo ao meu GitHub!](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFF&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;>+Meu+nome+é+Lucas+Spiazzi;>+Sou+Engenheiro+de+Software;>+Aqui+está+um+pouco+sobre+mim;>+Obrigado+pela+visita!!)
 
 ---
-
-## Um pouco da minha história ✨
+<h2 align="center"><p>Um pouco da minha história ✨</p></h2>
 
 | ![PS2 Animação](img/ps2.gif){ width=200 } | Desde pequeno, meu interesse por tecnologia surgiu junto com os vídeo-games. Sempre fui curioso, explorando configurações, aprendendo a mexer em sistemas e resolvendo problemas por conta própria. Gostava de descobrir como as coisas funcionavam, desvendando mistérios e buscando soluções, acho que essa foi a base pra tudo, além de me tornar bem aculturado. |
 |:---:|:---|
@@ -15,7 +14,7 @@
 
 ---
 
-## Já passou pelas minhas mãos 💻
+<h2 align="center"><p>Já passou pelas minhas mãos 💻</p></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-9AE6B4.svg?style=for-the-badge&logo=Android&logoColor=3DDC84" height="25" alt="android"/>
@@ -44,7 +43,7 @@
 
 ---
 
-## Minhas estatísticas 📈
+<h2 align="center"><p>Minhas estatísticas 📈</p></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=true" height="125" alt="stats graph"  />
@@ -53,9 +52,10 @@
 
 ---
 
-## Me dá um follow 🥺
+<h2 align="center"><p>Me dá um follow 🥺</p></h2>
 
-<p a>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/lucasspiazzi/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-E0F2FE.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077B5" height="32" alt="LinkedIn" />
   </a>
