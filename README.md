@@ -70,7 +70,7 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 
 ---
 
-<h2 align="center" style="color:#1A237E"><p>Me dá um follow 🥺</p></h2>
+<h3 align="center" style="color:#1A237E"><p>Me dá um follow 🥺</p></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasspiazzi/" target="_blank" rel="noopener noreferrer">
@@ -86,5 +86,7 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
     <img src="https://img.shields.io/badge/Email-1A237E.svg?style=for-the-badge&logo=Gmail&logoColor=E3F2FD" height="32" alt="Email" />
   </a>
 </p>
+
+<br>
 
 <div> <img align="center" alt="Header" src="img/footer.png"> </div>
