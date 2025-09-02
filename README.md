@@ -46,11 +46,11 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 <h2 align="center"><p>Minhas estatísticas 📈</p></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=00000000" height="135" alt="stats graph"  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catmaitachi&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catmaitachi&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=00000000" height="135" alt="languages graph"  />
 </p>
 
 ---
@@ -71,3 +71,5 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
   <img src="https://img.shields.io/badge/Email-0D1117.svg?style=for-the-badge&logo=Gmail&logoColor=007ACC" height="32" alt="Email" />
   </a>
 </p>
+
+<div> <img align="center" alt="Header" src="img/footer.png"> </div>
