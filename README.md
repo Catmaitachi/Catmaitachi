@@ -70,6 +70,12 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 
 ---
 
+<br>
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ksfikml2v9h6y3uxhuhlctbqw">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ksfikml2v9h6y3uxhuhlctbqw" alt="Data Card for Spotify">
+</a>
+
 <h3 align="center" style="color:#1A237E"><p>Me dá um follow 🥺</p></h3>
 
 <p align="center">
