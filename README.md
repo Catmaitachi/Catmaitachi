@@ -1,4 +1,8 @@
-### ![Bem-vindo ao meu GitHub!](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFF&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;>+Meu+nome+é+Lucas+Spiazzi;>+Sou+Engenheiro+de+Software;>+Aqui+está+um+pouco+sobre+mim;>+Obrigado+pela+visita!!)
+<div> <img align="center" alt="Header" src="img/banner.png"> </div>
+
+<br>
+
+<div> <img align="center" alt="Boas Vindas" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFF&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;>+Meu+nome+é+Lucas+Spiazzi;>+Sou+Engenheiro+de+Software;>+Aqui+está+um+pouco+sobre+mim;>+Obrigado+pela+visita!!">  </div>
 
 ---
 
@@ -15,28 +19,28 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 <h2 align="center"><p>Já passou pelas minhas mãos 💻</p></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-9AE6B4.svg?style=for-the-badge&logo=Android&logoColor=3DDC84" height="25" alt="android"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-B2F5EA.svg?style=for-the-badge&logo=Arch-Linux&logoColor=1793D1" height="25" alt="arch linux"/>
-  <img src="https://img.shields.io/badge/Windows-DBEAFE.svg?style=for-the-badge&logo=Windows&logoColor=0078D6" height="25" alt="windows"/>
-  <img src="https://img.shields.io/badge/Gemini-BAE6FD.svg?style=for-the-badge&logo=Google-Gemini&logoColor=4285F4" height="25" alt="gemini"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-CCFBF1.svg?style=for-the-badge&logo=Google-Sheets&logoColor=34A853" height="25" alt="google sheets"/>
-  <img src="https://img.shields.io/badge/VS%20Code-C7D2FE.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC" height="25" alt="vs code"/>
-  <img src="https://img.shields.io/badge/Git-FECACA.svg?style=for-the-badge&logo=Git&logoColor=F05032" height="25" alt="git"/>
-  <img src="https://img.shields.io/badge/GitHub-F3F4F6.svg?style=for-the-badge&logo=GitHub&logoColor=181717" height="25" alt="github"/>
-  <img src="https://img.shields.io/badge/Markdown-E2E8F0.svg?style=for-the-badge&logo=Markdown&logoColor=000000" height="25" alt="markdown"/>
-  <img src="https://img.shields.io/badge/Figma-E9D5FF.svg?style=for-the-badge&logo=Figma&logoColor=a259ff" height="25" alt="figma"/>
-  <img src="https://img.shields.io/badge/HTML5-FDE68A.svg?style=for-the-badge&logo=HTML5&logoColor=E34F26" height="25" alt="html5"/>
-  <img src="https://img.shields.io/badge/CSS-BAE6FD.svg?style=for-the-badge&logo=CSS3&logoColor=1572b6" height="25" alt="css"/>
-  <img src="https://img.shields.io/badge/Bootstrap-E9D5FF.svg?style=for-the-badge&logo=Bootstrap&logoColor=8512fb" height="25" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/JavaScript-FCFAC8.svg?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" height="25" alt="javascript"/>
-  <img src="https://img.shields.io/badge/React-BAE6FD.svg?style=for-the-badge&logo=React&logoColor=61DAFB" height="25" alt="react"/>
-  <img src="https://img.shields.io/badge/Node.js-B9FBC0.svg?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" height="25" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/C-E0E7FF.svg?style=for-the-badge&logo=C&logoColor=A8B9CC" height="25" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-E0E7FF.svg?style=for-the-badge&logo=C-sharp&logoColor=239120" height="25" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-BEE3F8.svg?style=for-the-badge&logo=Java&logoColor=037088" height="25" alt="java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-DCFCE7.svg?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F" height="25" alt="spring boot"/>
-  <img src="https://img.shields.io/badge/PHP-E0E7FF.svg?style=for-the-badge&logo=PHP&logoColor=777BB4" height="25" alt="php"/>
-  <img src="https://img.shields.io/badge/Python-BEE3F8.svg?style=for-the-badge&logo=Python&logoColor=3776AB" height="25" alt="python"/>
+  <img src="https://img.shields.io/badge/Android-0D1117.svg?style=for-the-badge&logo=Android&logoColor=3DDC84" height="25" alt="android"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-0D1117.svg?style=for-the-badge&logo=Arch-Linux&logoColor=1793D1" height="25" alt="arch linux"/>
+  <img src="https://img.shields.io/badge/Windows-0D1117.svg?style=for-the-badge&logo=Windows&logoColor=0078D6" height="25" alt="windows"/>
+  <img src="https://img.shields.io/badge/Gemini-0D1117.svg?style=for-the-badge&logo=Google-Gemini&logoColor=4285F4" height="25" alt="gemini"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-0D1117.svg?style=for-the-badge&logo=Google-Sheets&logoColor=34A853" height="25" alt="google sheets"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC" height="25" alt="vs code"/>
+  <img src="https://img.shields.io/badge/Git-0D1117.svg?style=for-the-badge&logo=Git&logoColor=F05032" height="25" alt="git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=for-the-badge&logo=GitHub&logoColor=181717" height="25" alt="github"/>
+  <img src="https://img.shields.io/badge/Markdown-0D1117.svg?style=for-the-badge&logo=Markdown&logoColor=007ACC" height="25" alt="markdown"/>
+  <img src="https://img.shields.io/badge/Figma-0D1117.svg?style=for-the-badge&logo=Figma&logoColor=a259ff" height="25" alt="figma"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=007ACC" height="25" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=1572b6" height="25" alt="css"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117.svg?style=for-the-badge&logo=Bootstrap&logoColor=8512fb" height="25" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=007ACC" height="25" alt="javascript"/>
+  <img src="https://img.shields.io/badge/React-0D1117.svg?style=for-the-badge&logo=React&logoColor=61DAFB" height="25" alt="react"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117.svg?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" height="25" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/C-0D1117.svg?style=for-the-badge&logo=C&logoColor=007ACC" height="25" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-0D1117.svg?style=for-the-badge&logo=C-sharp&logoColor=239120" height="25" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-0D1117.svg?style=for-the-badge&logo=Java&logoColor=037088" height="25" alt="java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-0D1117.svg?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F" height="25" alt="spring boot"/>
+  <img src="https://img.shields.io/badge/PHP-0D1117.svg?style=for-the-badge&logo=PHP&logoColor=007ACC" height="25" alt="php"/>
+  <img src="https://img.shields.io/badge/Python-0D1117.svg?style=for-the-badge&logo=Python&logoColor=3776AB" height="25" alt="python"/>
 </p>
 
 ---
@@ -44,26 +48,25 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 <h2 align="center"><p>Minhas estatísticas 📈</p></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=true" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catmaitachi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=true" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Catmaitachi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="135" alt="languages graph"  />
 </p>
 
 ---
 
 <h2 align="center"><p>Me dá um follow 🥺</p></h2>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasspiazzi/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-E0F2FE.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077B5" height="32" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077B5" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/luu.spz" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-F9E8E8.svg?style=for-the-badge&logo=Instagram&logoColor=EA4C89" height="32" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-0D1117.svg?style=for-the-badge&logo=Instagram&logoColor=007ACC" height="32" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@catmaitachi" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/TikTok-E0E7FF.svg?style=for-the-badge&logo=TikTok&logoColor=000000" height="32" alt="TikTok" />
+  <img src="https://img.shields.io/badge/TikTok-0D1117.svg?style=for-the-badge&logo=TikTok&logoColor=007ACC" height="32" alt="TikTok" />
   </a>
   <a href="mailto:lukasspiazzi@outlook.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-FCFAC8.svg?style=for-the-badge&logo=Gmail&logoColor=EA4335" height="32" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0D1117.svg?style=for-the-badge&logo=Gmail&logoColor=007ACC" height="32" alt="Email" />
   </a>
 </p>
