@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminal&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;%3E+Meu+nome+%C3%A9+Lucas+Spiazzi;%3E+Sou+Engenheiro+de+Software;%3E+Aqui+est%C3%A1+um+pouco+sobre+mim;%3E+Obrigado+pela+visita!!;%3E+_" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Console&size=21&pause=1000&color=FFFFFF&vCenter=true&width=800&lines=%3E+Ol%C3%A1%2C+bem-vindo+ao+meu+reposit%C3%B3rio+do++GitHub!!!;%3E+Meu+nome+%C3%A9+Lucas+Spiazzi;%3E+Sou+estudante+de+Engenharia+de+Software;%3E+Fique+%C3%A0+vontade+para+ler+um+pouco+mais+sobre+mim;%3E+Muito+obrigado+pela+visita+%3AP;%3E+_" alt="Welcome animation" /></a>
 
 ---
 
