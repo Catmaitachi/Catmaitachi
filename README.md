@@ -1,6 +1,8 @@
 <div> <img align="center" alt="Header" src="img/banner.png"> </div>
 
-### ![Bem-vindo ao meu GitHub!](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFF&background=000A2E00&center=true&vCenter=true&width=1000&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;>+Meu+nome+é+Lucas+Spiazzi;>+Sou+Engenheiro+de+Software;>+Aqui+está+um+pouco+sobre+mim;>+Obrigado+pela+visita!!)
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminal&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=%3E+Bem-Vindo+ao+meu+GitHub!!;%3E+Meu+nome+%C3%A9+Lucas+Spiazzi;%3E+Sou+Engenheiro+de+Software;%3E+Aqui+est%C3%A1+um+pouco+sobre+mim;%3E+Obrigado+pela+visita!!;%3E+_" alt="Typing SVG" /></a>
 
 ---
 
@@ -23,13 +25,14 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 
 <h3 align="center" style="color:#1A237E">🛠️ Ferramentas</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-1A237E.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=E3F2FD" height="25" alt="vs code"/>
   <img src="https://img.shields.io/badge/Git-1A237E.svg?style=for-the-badge&logo=Git&logoColor=E3F2FD" height="25" alt="git"/>
   <img src="https://img.shields.io/badge/GitHub-1A237E.svg?style=for-the-badge&logo=GitHub&logoColor=E3F2FD" height="25" alt="github"/>
-  <img src="https://img.shields.io/badge/Markdown-1A237E.svg?style=for-the-badge&logo=Markdown&logoColor=E3F2FD" height="25" alt="markdown"/>
+  <img src="https://img.shields.io/badge/Copilot-1A237E.svg?style=for-the-badge&logo=githubcopilot&logoColor=E3F2FD" height="25" alt="github copilot"/>
+  <img src="https://img.shields.io/badge/VS%20Code-1A237E.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=E3F2FD" height="25" alt="vs code"/>
   <img src="https://img.shields.io/badge/Figma-1A237E.svg?style=for-the-badge&logo=Figma&logoColor=E3F2FD" height="25" alt="figma"/>
-  <img src="https://img.shields.io/badge/Sheets-1A237E.svg?style=for-the-badge&logo=Google-Sheets&logoColor=E3F2FD" height="25" alt="google sheets"/>
   <img src="https://img.shields.io/badge/Gemini-1A237E.svg?style=for-the-badge&logo=Google-Gemini&logoColor=E3F2FD" height="25" alt="gemini"/>
+  <img src="https://img.shields.io/badge/Sheets-1A237E.svg?style=for-the-badge&logo=Google-Sheets&logoColor=E3F2FD" height="25" alt="google sheets"/>
+  <img src="https://img.shields.io/badge/Markdown-1A237E.svg?style=for-the-badge&logo=Markdown&logoColor=E3F2FD" height="25" alt="markdown"/>
 </p>
 
 <h3 align="center" style="color:#1A237E">🌐 Front-end</h3>
@@ -57,6 +60,7 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
 
 <h2 align="center" style="color:#1A237E"><p>Minhas estatísticas 📈</p></h2>
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Catmaitachi&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=000A2E00" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Catmaitachi&theme=react&hide_border=true&background=000A2E00" height="150" alt="GitHub Streak" />
@@ -82,14 +86,17 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
   <a href="https://www.linkedin.com/in/lucasspiazzi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-1A237E.svg?style=for-the-badge&logo=LinkedIn&logoColor=E3F2FD" height="32" alt="LinkedIn" />
   </a>
+  <a href="mailto:lukasspiazzi@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-1A237E.svg?style=for-the-badge&logo=Gmail&logoColor=E3F2FD" height="32" alt="Email" />
+  </a>
   <a href="https://www.instagram.com/luu.spz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-1A237E.svg?style=for-the-badge&logo=Instagram&logoColor=E3F2FD" height="32" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@catmaitachi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TikTok-1A237E.svg?style=for-the-badge&logo=TikTok&logoColor=E3F2FD" height="32" alt="TikTok" />
   </a>
-  <a href="mailto:lukasspiazzi@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-1A237E.svg?style=for-the-badge&logo=Gmail&logoColor=E3F2FD" height="32" alt="Email" />
+  <a href="https://steamcommunity.com/id/catmaitachi/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Steam-1A237E.svg?style=for-the-badge&logo=Steam&logoColor=E3F2FD" height="32" alt="Steam" />
   </a>
 </p>
 
